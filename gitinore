@@ -1,0 +1,6 @@
+runs/
+*.csv
+*.npy
+*.log
+__pycache__/
+.env
